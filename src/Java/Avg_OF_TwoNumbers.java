@@ -11,7 +11,7 @@ public class Avg_OF_TwoNumbers {
 		
 	       Scanner sc=new Scanner(System.in);
 	 
-	       System.out.println("enter how many numbers to cal  avg");
+	       System.out.println("enter how many numbers to calculate  avg");
 		   
 	       n=sc.nextInt();
 	 
