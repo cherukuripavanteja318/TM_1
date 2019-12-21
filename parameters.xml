@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="UID" value="user02"/>
+<parameter name="PASS" value="TM1234"/>
+  <test name="Test">
+    <classes>
+      <class name="Selenium.TestNGParameters"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
